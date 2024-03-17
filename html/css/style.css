@@ -1,22 +1,36 @@
 
+.cabeza {
+    width: 1282px;
+    height: 50px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #ea00ff;
+}
+
+html body{
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    display: flex;
+    margin-bottom: 50px;
+    border-width: 62px;
+    border-left: 32px;
+    border-right: 32px;
+    
+}
+
+main{
+
+    border: 5px solid black;
+}
+
+html{
+    font-family:'Courier New', Courier, monospace ;
+}
+
 div,
 span {
-    color: rgb(255, 0, 0);
-}
-/* tipos de selectores */
-p{
-  color: aqua;
-}
-
-#p1{    /* por selector de tipo ID, se usa bastante en JAVASCRIPDT */
-    color: coral;
-}
-
-/* con el punto css va mostrar la clase */
-.texto-amarillo{
-    color: yellow;
-}
-
-*{  /* es el menos importante Selector Universal, para los H1 y en ITEMS, jerarquia aunque a todos les ponga color, pero si tienen color por elemento prevalecen */
-    color: green;
+    border: 1px solid black;
+    color: blue;
 }

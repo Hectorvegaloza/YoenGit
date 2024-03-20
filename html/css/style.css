@@ -187,7 +187,22 @@ p{
     height: 500px;
 }
 
+.stilo2{
+    margin: 50px;
+    text-align: justify;
+    margin-right: 25px ;
+}
 
+.imagen{
+    display: block;
+
+    margin: auto;
+}
+
+.mejore{
+    margin: 50px;
+    text-align: justify;
+}
 
 
 

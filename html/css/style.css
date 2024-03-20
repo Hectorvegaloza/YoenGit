@@ -125,7 +125,27 @@ h2{
 }
 
 
+#grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 20px ;
+}
 
+
+/* .enlinea{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    
+    text-align: center;
+    text-align: initial;
+} */
+
+.enlinea{
+    background-color: lime;
+}
+.ss{
+    background-color: rgb(6, 14, 251);
+}
 
 
 

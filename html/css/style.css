@@ -203,6 +203,14 @@ p{
     margin: 50px;
     text-align: justify;
 }
+footer {
+    text-align: center;
+    padding: 50px;
+    background-color: #110e0e;
+    color: #ffffff;
+    margin-left: 80px ;
+    margin-right: 80px;
+  }
 
 
 

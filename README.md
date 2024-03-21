@@ -12,4 +12,4 @@ Esta pagina esta compuesta de
 - Pasatiempos
 - Reconocimientos y Cursos
 
-![](https://github.com/Hectorvegaloza/Hectorvegaloza/blob/main/see1.gif)
+![](https://github.com/Hectorvegaloza/YoenGit/blob/main/html/see1.gif)

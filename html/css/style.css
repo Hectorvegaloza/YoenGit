@@ -68,6 +68,7 @@ header{
     font-family:  "Akaya Kanadaka", system-ui;
 }
 
+
 .colortext{
     color:rgb(209, 10, 30);    
 }
@@ -182,7 +183,6 @@ footer {
 /*  margin-left: 110px ;
     margin-right: 110px; */
     background: linear-gradient(to right, #ff0707, #a200ffa4);
-
   }
 
 
@@ -194,6 +194,8 @@ footer {
     right: 10px;
     z-index: 1;
   }
+  
+
 
    input {
     display: none;
@@ -207,13 +209,9 @@ input:checked + nav {
     text-align:center;
     gap: 10px; 
     background-color: rgb(167, 79, 250);
-    transform: translateY(0);
   }
 
-  nav {
-    position: absolute;
-  }
-
+ 
   a {
     padding: 10px;
     color: rgb(0, 0, 0);

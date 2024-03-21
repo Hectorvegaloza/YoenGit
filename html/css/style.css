@@ -183,6 +183,7 @@ footer {
 /*  margin-left: 110px ;
     margin-right: 110px; */
     background: linear-gradient(to right, #ff0707, #a200ffa4);
+
   }
 
 
@@ -195,7 +196,11 @@ footer {
     z-index: 1;
   }
   
-
+  #DD {
+    display: flex;
+    border: 1px solid #110e0e;
+    /* z-index: 1; */
+  }
 
    input {
     display: none;
@@ -208,10 +213,12 @@ input:checked + nav {
     flex-direction: column; 
     text-align:center;
     gap: 10px; 
-    background-color: rgb(167, 79, 250);
+    background-color: rgb(210, 165, 252);
+    transform:translateY(20);
+    
   }
 
- 
+
   a {
     padding: 10px;
     color: rgb(0, 0, 0);
@@ -258,7 +265,7 @@ input:checked + nav {
             grid-column-gap: 20px ;
         }
     main{
-        border: 1px solid black;
+       
         margin: auto;
         margin: 10px;
     }
@@ -281,7 +288,7 @@ input:checked + nav {
         float: right;
         padding: 6px 20px;
     } 
-    
+
 
   }
   @media screen and (min-width: 1024px) and (max-width: 768px){  

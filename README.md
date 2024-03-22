@@ -22,4 +22,6 @@ Tiene diferentes caracteristicas como:
 - Manejo de Grid & Flex
 - Colores variados
 
+Esta pagina se puede observar: https://hectorvegaloza.github.io/YoenGit/
+
 ![](https://github.com/Hectorvegaloza/YoenGit/blob/main/html/este.gif)

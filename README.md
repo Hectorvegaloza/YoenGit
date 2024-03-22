@@ -17,6 +17,9 @@ Tiene diferentes caracteristicas como:
 - Responsivo
 - Tiene iconos diferentes
 - Tiene tipos de texto diferentes
-- 
+- Imageners
+- Animaciones
+- Manejo de Grid & Flex
+- Colores variados
 
 ![](https://github.com/Hectorvegaloza/YoenGit/blob/main/html/see1.gif)

@@ -12,4 +12,11 @@ Esta pagina esta compuesta de
 - Pasatiempos
 - Reconocimientos y Cursos
 
+Tiene diferentes caracteristicas como:
+
+- Responsivo
+- Tiene iconos diferentes
+- Tiene tipos de texto diferentes
+- 
+
 ![](https://github.com/Hectorvegaloza/YoenGit/blob/main/html/see1.gif)

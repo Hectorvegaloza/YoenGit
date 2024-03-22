@@ -22,4 +22,4 @@ Tiene diferentes caracteristicas como:
 - Manejo de Grid & Flex
 - Colores variados
 
-![](https://github.com/Hectorvegaloza/YoenGit/blob/main/html/see1.gif)
+![](https://github.com/Hectorvegaloza/YoenGit/blob/main/html/este.gif)
